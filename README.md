@@ -1,3 +1,3 @@
-# Spring Boot Application using SpringData MongoDB Repository and MongoDB Altas
+# Spring Boot Application using SpringData MongoRepository and MongoDB Altas as database
 
-This Spring Boot Rest Example with Spring Data MongoDB Repostory and Mongo Atlas as database
+This Spring Boot Rest Example with SpringData MongoRepostory and Mongo Atlas as database
